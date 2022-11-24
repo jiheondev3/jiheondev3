@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiheondev3
 - 👀 I’m interested in React and TypeScript
-- 🌱 I’m currently learning responsive web design
+- 🌱 I’m currently learning responsive web design and a11y
 - 💞️ I’m looking to collaborate on modern, accessible webapps
 - 📫 How to reach me: jiheondev3#7620 on Discord
 
