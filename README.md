@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jiheondev3
-- 👀 I’m interested in developing webapps using React
+- 👀 I’m interested in React and TypeScript
 - 🌱 I’m currently learning responsive web design
-- 💞️ I’m looking to collaborate on Jiheon
-- 📫 How to reach me Jiheon
+- 💞️ I’m looking to collaborate on modern, accessible webapps
+- 📫 How to reach me: jiheondev3#7620 on Discord
 
 <!---
 jiheondev3/jiheondev3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
