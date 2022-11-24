@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiheondev3
-- 👀 I’m interested in Jiheon
+- 👀 I’m interested in developing webapps using React
 - 🌱 I’m currently learning responsive web design
 - 💞️ I’m looking to collaborate on Jiheon
 - 📫 How to reach me Jiheon
